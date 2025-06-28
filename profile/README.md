@@ -1,14 +1,7 @@
 # Hi, 👋
-![image](https://user-images.githubusercontent.com/76883/208950046-242355ca-4e9b-4e95-ae8a-cfe49119c27b.png)
 
+We are trying to define how an AI and humans work together and be productive together. We believe that AI is not meant to be a temple where you worship a few times a day, by taking the effort to do so. 
 
+We believe that AI is meant to work alongside humans.
 
-**We’re extremely excited that you landed on our GitHub page!**
-
-📱📲 Download our Android app here: https://play.google.com/store/apps/details?id=com.wootzapp.browser
-
-🤖 Check out our work on AI art and our custom dreambooth/diffusion model gen code [https://github.com/wootzapp/SimpleDiffuserDreambooth](https://github.com/wootzapp/SimpleDiffuserDreambooth)
-
-🧑‍💻 Learn about our code of conduct: https://github.com/wootzapp/.github/blob/main/CODE_OF_CONDUCT.md
-
-
+Ultimately our vision at **alongsideOS** is for the AI to be ~~_part of the operating system_~~ the operating system. 
