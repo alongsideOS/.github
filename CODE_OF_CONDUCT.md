@@ -1,22 +1,22 @@
-The WootzApp Community is a global community of Web3 & Crypto practitioners who collaborate to share knowledge on solving the challenges of integrating blockchain into every phase of your daily life, from buying coffee to investing your money.
+The alongsideOS Community is a global community of Web3 & Crypto practitioners who collaborate to share knowledge on solving the challenges of integrating blockchain into every phase of your daily life, from buying coffee to investing your money.
 
 ### We thrive on diversity
 
 Diversity of ideas challenges us to think differently and venture into new territory to achieve the best outcomes for our businesses, for our teams, and for one another.
 
-While we all come from diverse backgrounds, experiences, and cultural upbringings, we recognize that challenges, misunderstandings, and disagreements will arise. Disagreeing with others about technology and process can be great, as those disagreements can lead to new ideas and greater outcomes that benefit us all. At the same time, disagreements that are personal, aggressive, or make others feel attacked, are never good and have no place in the WootzApp Community.
+While we all come from diverse backgrounds, experiences, and cultural upbringings, we recognize that challenges, misunderstandings, and disagreements will arise. Disagreeing with others about technology and process can be great, as those disagreements can lead to new ideas and greater outcomes that benefit us all. At the same time, disagreements that are personal, aggressive, or make others feel attacked, are never good and have no place in the alongsideOS Community.
 
-The WootzApp Community Guidelines are maintained to ensure disagreements stay civil and do not cross into unacceptable behavior such as personal attacks or aggression against others.
+The alongsideOS Community Guidelines are maintained to ensure disagreements stay civil and do not cross into unacceptable behavior such as personal attacks or aggression against others.
 
-Anyone is welcome to join the WootzApp Community, but in doing so you are agreeing to behave within these guidelines.
+Anyone is welcome to join the alongsideOS Community, but in doing so you are agreeing to behave within these guidelines.
 
 ## Code of Conduct
 
-WootzApp is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of community members at events or online in any form.
+alongsideOS is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of community members at events or online in any form.
 
-When communicating with others in the WootzApp Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial will not be tolerated. 
+When communicating with others in the alongsideOS Community, take your time, pause before posting and responding (breathe), and choose your words thoughtfully. Always be kind. Any kind of insults, whether they are sexist, racist, exclusionary, or prejudicial will not be tolerated. 
 
-By joining the WootzApp Community you are expected to behave as follows:
+By joining the alongsideOS Community you are expected to behave as follows:
 
 - Act with kindness
 - Welcome everyone
@@ -25,9 +25,9 @@ By joining the WootzApp Community you are expected to behave as follows:
 
 ### Scope
 
-The WootzApp Code of Conduct is expected to be followed by all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers in any setting that WootzApp conducts business in.
+The alongsideOS Code of Conduct is expected to be followed by all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers in any setting that alongsideOS conducts business in.
 
-This includes but is not limited to WootzApp Community Slack, Webinars, GitHub, YouTube or Twitch live stream, commenting on any WootzApp generated content, or threads related to WootzApp such as Reddit or Stack Overflow.
+This includes but is not limited to alongsideOS Community Slack, Webinars, GitHub, YouTube or Twitch live stream, commenting on any alongsideOS generated content, or threads related to alongsideOS such as Reddit or Stack Overflow.
 
 ### Anti-Harassment Policy
 
@@ -92,17 +92,17 @@ When punitive action is warranted, one or more of the following remedies may be 
 - Banned from the space or online group where the incident occurred indefinitely
 - Banned from one or more upcoming events or any of our online groups
 
-If a community member engages in unacceptable behavior, the Community Ambassadors will take action that they deem appropriate -- up to and including a temporary ban or permanent expulsion from the community without warning (and without refund, in the case of a paid event). If you have been involved in unacceptable behavior with current WootzApp community members outside the boundaries of the WootzApp Community, the Community Ambassadors retain the right to treat those external incidents in the same manner as internal incidents.
+If a community member engages in unacceptable behavior, the Community Ambassadors will take action that they deem appropriate -- up to and including a temporary ban or permanent expulsion from the community without warning (and without refund, in the case of a paid event). If you have been involved in unacceptable behavior with current alongsideOS community members outside the boundaries of the alongsideOS Community, the Community Ambassadors retain the right to treat those external incidents in the same manner as internal incidents.
 
 Any physical violence or intimidation, threatened or acted on, is a serious offense and will result in immediate exclusion from the community and appropriate follow-up with law enforcement.
 
 ## Community Roles
 
-There are two defined roles within the WootzApp Community:
+There are two defined roles within the alongsideOS Community:
 
-- **Community Ambassadors** - Community Ambassadors are designated WootzApp representatives that actively participate within the WootzApp Community to welcome all participants on behalf of WootzApp, and who work to ensure community guidelines and the code of conduct are followed by all.
+- **Community Ambassadors** - Community Ambassadors are designated alongsideOS representatives that actively participate within the alongsideOS Community to welcome all participants on behalf of alongsideOS, and who work to ensure community guidelines and the code of conduct are followed by all.
 
-- **Community Members** - A Community Member is anyone who participates with the community whether in-person or via online channels, which also includes Community Ambassadors and WootzApp Employees. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
+- **Community Members** - A Community Member is anyone who participates with the community whether in-person or via online channels, which also includes Community Ambassadors and alongsideOS Employees. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
 ### Community Ambassador Responsibilities
 
@@ -116,11 +116,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 | Name      | Role | Email | Slack | GitHub | Twitter |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
-| Scott Ford      | DevRel / Community | scottford@WootzApp.com | @scottford | [@scottford-io](https://github.com/scottford-io) | [@scottford_io](https://twitter.com/scottford_io) |
-| Tim Smith      | DevRel / Community | tim@WootzApp.com | @tas50 | [@tas50](https://github.com/tas50) | [@tas50](https://twitter.com/tas50) |
-| Jamie Bright | Marketing Director | jamieb@WootzApp.com | @jamiebright |  |  |
-| Ben Rockwood | VP Engineering / Operation | ben@WootzApp.com |  @benr | [@benr](https://github.com/benr) | [@benr](https://twitter.com/benr) |
-| Alex Miller | Digital Marketing Specialist | alex@WootzApp.com |  @alexmiller |  |  | -->
+| Scott Ford      | DevRel / Community | scottford@alongsideOS.com | @scottford | [@scottford-io](https://github.com/scottford-io) | [@scottford_io](https://twitter.com/scottford_io) |
+| Tim Smith      | DevRel / Community | tim@alongsideOS.com | @tas50 | [@tas50](https://github.com/tas50) | [@tas50](https://twitter.com/tas50) |
+| Jamie Bright | Marketing Director | jamieb@alongsideOS.com | @jamiebright |  |  |
+| Ben Rockwood | VP Engineering / Operation | ben@alongsideOS.com |  @benr | [@benr](https://github.com/benr) | [@benr](https://twitter.com/benr) |
+| Alex Miller | Digital Marketing Specialist | alex@alongsideOS.com |  @alexmiller |  |  | -->
 
 ## Influences
 
